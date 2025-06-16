@@ -1,0 +1,51 @@
+#education {
+  background-color: $white-color;
+  color: $dark-blue-text;
+  padding: 10rem 0;
+
+  .section-title {
+    text-align: center;
+    font-size: 3.6rem;
+    margin-bottom: 5rem;
+  }
+
+  .education-wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 3.5rem;
+
+    @include respond(phone) {
+      padding: 0 2rem;
+    }
+  }
+
+  .education-card {
+    background-color: #f8f9fa;
+    padding: 2.5rem 3rem;
+    border-left: 4px solid $secondary-color;
+    border-radius: 0.8rem;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+
+    &:hover {
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+      transform: translateY(-4px);
+    }
+
+    .education-institution {
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 0.8rem;
+    }
+
+    .education-degree,
+    .education-period,
+    .education-grade {
+      font-size: 1.6rem;
+      line-height: 1.6;
+      margin-bottom: 0.4rem;
+    }
+  }
+}
