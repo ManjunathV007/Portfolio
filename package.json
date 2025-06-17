@@ -1,7 +1,7 @@
 {
-  "name": "simplefolio",
+  "name": "portfolio",
   "version": "1.0.1",
-  "private": "true",
+  "private": true,
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/ManjunathV007/Portfolio.git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Manjunath Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/ManjunathV007/Portfolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://ManjunathV007.github.io/Portfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.15.2",
     "parcel": "^2.15.2",
