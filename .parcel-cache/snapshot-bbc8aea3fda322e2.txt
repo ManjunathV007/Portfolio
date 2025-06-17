@@ -1,6 +1,6 @@
-4542
+4536
 66C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\bootstrap133945271717753952 1
-56C:\Users\Manjunath Sharma\Desktop\portfolio\package.json133946162677347040 0
+56C:\Users\Manjunath Sharma\Desktop\portfolio\package.json133946167723726847 0
 72C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\chalk\readme.md133945271676948195 0
 81C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\detect-libc\package.json133945271737230901 0
 112C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133945274490230835 0
@@ -11,13 +11,13 @@
 85C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\jquery\src\var\class2type.js133945271684965968 0
 96C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\svg-fonts.js133945272050557761 0
 68C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\jquery\dist133945271707128794 1
-74C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@msgpackr-extract133946163102223940 1
+74C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@msgpackr-extract133946165904288659 1
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\GF.js133945272037330158 0
 102C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\popper.js\src\utils\findCommonOffsetParent.js133945271754389799 0
 104C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\css-cascade-scope.js133945272021286714 0
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\lightningcss\node\index.js.flow133945274489339131 0
 98C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\electron-to-chromium\chromium-versions.js133945271987323911 0
-48C:\Users\Manjunath Sharma\Desktop\portfolio\dist133946160500569104 1
+48C:\Users\Manjunath Sharma\Desktop\portfolio\dist133946168133499139 1
 102C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\bootstrap\dist\js\bootstrap.bundle.min.js.map133945271711236090 0
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-svg\LICENSE133945274491508041 0
 63C:\Users\Manjunath Sharma\Desktop\portfolio\src\sass\components133945271267055028 1
@@ -39,17 +39,17 @@
 99C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\setimmediate.js133945272049883921 0
 86C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\bootstrap\js\dist\dom\data.js133945271699343789 0
 91C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\core\test\fixtures\plugins133945274493150799 1
-61C:\Users\Manjunath Sharma\Desktop\portfolio\package-lock.json133946163102627387 0
+61C:\Users\Manjunath Sharma\Desktop\portfolio\package-lock.json133946165904680755 0
 54C:\Users\Manjunath Sharma\Desktop\portfolio\.gitignore133945803798889321 0
 79C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\semver\functions\eq.js133945274489857591 0
 85C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\bootstrap\scss\_helpers.scss133945271721013168 0
 96C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\mpeg-dash.js133945272045777655 0
 102C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133945274491562903 0
 54C:\Users\Manjunath Sharma\Desktop\portfolio\src\assets133945811311025473 1
-48C:\Users\Manjunath Sharma\Desktop\portfolio\docs133946160879328075 1
+48C:\Users\Manjunath Sharma\Desktop\portfolio\docs133946166421018693 1
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\HU.js133945272039407774 0
 85C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\semver\ranges\min-version.js133945274490832550 0
-56C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules133946163102193944 1
+56C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules133946165904278733 1
 87C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\lmdb\dependencies\lmdb-data-v1133945274488262931 1
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\GL.js133945272037692208 0
 95C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\ordered-binary\.nyc_output\processinfo133945271995532324 1
@@ -181,7 +181,7 @@
 91C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\bootstrap\js\dist\offcanvas.js.map133945271716729277 0
 94C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\_\_decorate\package.json133945274495890659 0
 87C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\type-fest\ts41\camel-case.d.ts133945271677848745 0
-62C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@lmdb133946163102223940 1
+62C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@lmdb133946165904288659 1
 76C:\Users\Manjunath Sharma\Desktop\portfolio\src\sass\sections\_projects.scss133946145930290403 0
 91C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\bootstrap\scss\mixins\_resize.scss133945271721995860 0
 94C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\profiler\node_modules\@parcel133945274510773860 1
@@ -213,7 +213,7 @@
 103C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\css-mediaqueries.js133945272025659922 0
 112C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133945274493778791 0
 74C:\Users\Manjunath Sharma\Desktop\portfolio\src\sass\base\_typography.scss133945271267055028 0
-61C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc133946163102203946 1
+61C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc133946165904278733 1
 93C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\workers\src\web\WebWorker.js133945274491627236 0
 90C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\source-map-js\lib\mapping-list.js133945271988758916 0
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\AI.js133945271996125578 0
@@ -253,12 +253,12 @@
 70C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\source-map-js133945271995886983 1
 111C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133945274490085819 0
 107C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\css-element-function.js133945272022757376 0
-75C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\.package-lock.json133946163102830081 0
+75C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\.package-lock.json133946165904885051 0
 63C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@lezer133945272058731007 1
 66C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@mischnic133945272058731007 1
 74C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\tslib\SECURITY.md133945271991817981 0
 116C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133945274494758518 0
-64C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel133946163102213944 1
+64C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel133946165904288659 1
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\RO.js133945272049444389 0
 73C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\src133945274500330642 1
 83C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\jquery\src\var\isWindow.js133945271694172626 0
@@ -1354,7 +1354,7 @@
 94C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\postcss-value-parser\lib\stringify.js133945271675852398 0
 104C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\css-initial-value.js133945272024844047 0
 89C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\postcss-value-parser\lib\unit.js133945271676598718 0
-69C:\Users\Manjunath Sharma\Desktop\portfolio\dist\profile.6d690f19.jpg133946160500469090 0
+69C:\Users\Manjunath Sharma\Desktop\portfolio\dist\profile.6d690f19.jpg133946168133294852 0
 71C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\popper.js\dist133945271744133930 1
 92C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\lmdb\dependencies\lz4\lib\lz4file.h133945274493663281 0
 79C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\dotenv-expand\tea.yaml133945274489525530 0
@@ -2476,7 +2476,6 @@
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\NA.js133945272046369670 0
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\NC.js133945272046560110 0
 93C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\workers\lib\web\WebWorker.js133945274491607247 0
-74C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.31b563d9.js.map133946160423271777 0
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\regions\NE.js133945272046599675 0
 99C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\_\_initializer_warning_helper133945274496090649 1
 105C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\caniuse-lite\data\features\css-grid-animation.js133945272024152099 0
@@ -3411,7 +3410,7 @@
 100C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133945274489753328 0
 96C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\_\_call_super\package.json133945274495249084 0
 105C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\src\_ts_add_disposable_resource.mjs133945274500141849 0
-71C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.3881c40d.css133946160500469090 0
+71C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.3881c40d.css133946168133317829 0
 97C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\_\_await_value\package.json133945274495227159 0
 107C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\helpers\_\_await_async_generator\package.json133945274495204762 0
 109C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@popperjs\core\lib\dom-utils\getDocumentElement.d.ts133945271703422314 0
@@ -3636,7 +3635,7 @@
 100C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\core\test\fixtures\config\.parcelrc133945274489605123 0
 82C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\counter\CHANGELOG.md133945271986933251 0
 82C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\counter\package.json133945271987399315 0
-70C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.f316a7c2.js133946160500469090 0
+70C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.f316a7c2.js133946168133304098 0
 105C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133945272048232494 0
 99C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-image\lib\loadSharp.js133945274491886212 0
 79C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@swc\core\binding.d.ts133945274489036830 0
@@ -3984,7 +3983,7 @@
 90C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\utils\src\prettifyTime.js133945274491978489 0
 94C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\utils\src\progress-message.js133945274492015227 0
 87C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\utils\src\sourcemap.js133945274492199179 0
-55C:\Users\Manjunath Sharma\Desktop\portfolio\dist\assets133946160423251769 1
+55C:\Users\Manjunath Sharma\Desktop\portfolio\dist\assets133946168115698662 1
 84C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\utils\src\stream.js133945274492246713 0
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\reporter-dev-server\lib133945274501699910 1
 92C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\types-internal\package.json133945271996223670 0
@@ -4052,7 +4051,6 @@
 93C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-css\package.json133945274499121740 0
 102C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-css\src\CSSTransformer.js133945274499104951 0
 95C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-babel\package.json133945274490969610 0
-70C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.31b563d9.js133946160422751864 0
 92C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-babel\README.md133945274491053952 0
 105C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133945274489911997 0
 120C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js133945274492677663 0
@@ -4524,7 +4522,7 @@
 72C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\.bin\semver.ps1133945274504561349 0
 84C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\.bin\update-browserslist-db133945272054559471 0
 88C:\Users\Manjunath Sharma\Desktop\portfolio\node_modules\.bin\update-browserslist-db.cmd133945272054549522 0
-55C:\Users\Manjunath Sharma\Desktop\portfolio\docs\assets133946160878506480 1
+55C:\Users\Manjunath Sharma\Desktop\portfolio\docs\assets133946166172557128 1
 69C:\Users\Manjunath Sharma\Desktop\portfolio\docs\favicon.49d52145.jpg133946160422751864 0
 70C:\Users\Manjunath Sharma\Desktop\portfolio\docs\portfolio.31b563d9.js133946160422751864 0
 71C:\Users\Manjunath Sharma\Desktop\portfolio\docs\portfolio.3881c40d.css133946160500469090 0
@@ -4532,12 +4530,8 @@
 75C:\Users\Manjunath Sharma\Desktop\portfolio\docs\portfolio.4a508c1d.css.map133946160423271777 0
 70C:\Users\Manjunath Sharma\Desktop\portfolio\docs\portfolio.f316a7c2.js133946160500469090 0
 74C:\Users\Manjunath Sharma\Desktop\portfolio\docs\portfolio.f316a7c2.js.map133946160500559104 0
-69C:\Users\Manjunath Sharma\Desktop\portfolio\dist\favicon.49d52145.jpg133946160422751864 0
-69C:\Users\Manjunath Sharma\Desktop\portfolio\dist\favicon.f9911248.jpg133946160500459092 0
-59C:\Users\Manjunath Sharma\Desktop\portfolio\dist\index.html133946160422751864 0
-75C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.3881c40d.css.map133946160500559104 0
-71C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.4a508c1d.css133946160422751864 0
-75C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.4a508c1d.css.map133946160423271777 0
-74C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.f316a7c2.js.map133946160500559104 0
-69C:\Users\Manjunath Sharma\Desktop\portfolio\dist\profile.6ee28169.jpg133946160422982961 0
-66C:\Users\Manjunath Sharma\Desktop\portfolio\dist\assets\resume.pdf133946160422771812 0
+69C:\Users\Manjunath Sharma\Desktop\portfolio\dist\favicon.f9911248.jpg133946168116506225 0
+59C:\Users\Manjunath Sharma\Desktop\portfolio\dist\index.html133946168133294852 0
+75C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.3881c40d.css.map133946168133481219 0
+74C:\Users\Manjunath Sharma\Desktop\portfolio\dist\portfolio.f316a7c2.js.map133946168133407503 0
+66C:\Users\Manjunath Sharma\Desktop\portfolio\dist\assets\resume.pdf133946168115629041 0
