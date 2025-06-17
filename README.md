@@ -5,7 +5,7 @@ A modern, responsive, and clean developer portfolio built with HTML, CSS, and Ja
 ## Live Site
 
 **🌐 View the website:**  
-[https://manjunathv007.github.io/Portfolio/src](https://manjunathv007.github.io/Portfolio/src)
+[https://manjunathv007.github.io/Portfolio/](https://manjunathv007.github.io/Portfolio/)
 
 ## Features
 
