@@ -1,0 +1,98 @@
+#skills {
+  background: linear-gradient(135deg, $primary-color, $secondary-color);
+  clip-path: polygon(0 0, 100% 8%, 100% 100%, 0% 100%);
+  padding: 12rem 2rem;
+  color: $white-color;
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .section-title {
+    font-size: $big-font-size;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 6rem;
+    color: $white-color;
+    text-transform: uppercase;
+  }
+
+  .skills-grid {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 3rem;
+    margin-bottom: 5rem;
+
+    &.single-center {
+      justify-content: center;
+    }
+  }
+
+  .skill-box {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 1.2rem;
+    padding: 2.5rem 2rem;
+    flex: 1 1 30%;
+    min-width: 280px;
+    max-width: 360px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: translateY(-4px);
+    }
+
+    h3 {
+      font-size: $mid-font-size;
+      text-align: center;
+      margin-bottom: 2rem;
+      color: $white-color;
+      text-shadow: 0 1px 6px rgba(0, 0, 0, 0.25);
+    }
+
+    .skills-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+
+      .skill {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6rem;
+        padding: 0.6rem 1.2rem;
+        background-color: rgba(255, 255, 255, 0.9); // brighter for dark text
+        border-radius: 999px;
+        font-size: $default-font-size;
+        font-weight: 600;
+        color: $dark-grey; // <-- Dark text
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s;
+
+        i {
+          font-size: 1.8rem;
+
+        }
+
+        &:hover {
+          background-color: #ffffff;
+          transform: scale(1.05);
+        }
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    .skills-grid {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .skill-box {
+      max-width: 100%;
+    }
+  }
+}
